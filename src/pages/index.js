@@ -69,7 +69,7 @@ export default (() => {
 			Made on Quarkly
 		</Link>
 		<RawHtml>
-			<meta content={"это теги мета "} name={"keywords"} place={"endOfHead"} rawKey={"600a853c8703bb1124e58cac"} />
+			<meta content={"\"ключевое слово, ключевое слово2, ключевое слово3\""} name={"keywords"} place={"endOfHead"} rawKey={"600a9bd7f06e1a47e725cda3"} />
 		</RawHtml>
 	</Theme>;
 });
