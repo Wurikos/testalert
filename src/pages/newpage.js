@@ -37,7 +37,9 @@ export default (() => {
 			Made on Quarkly
 		</Link>
 		<RawHtml>
-			<meta content={"\"ключевое слово, ключевое слово2, ключевое слово3\""} name={"keywords"} place={"endOfHead"} rawKey={"600a9bd7f06e1a47e725cda3"} />
+			<script place={"endOfBody"} rawKey={"600aa02b457ce99b774f87d2"}>
+				{"alert(\"Hello\");"}
+			</script>
 			<style place={"endOfBody"} rawKey={"600a7fd13f4ffef6ccbca783"}>
 				{"body {\nbackground-color: yellow}"}
 			</style>
